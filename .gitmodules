@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ana-ferreiramg/waiterappFRONTEND.git
+[submodule "api"]
+	path = api
+	url = git@github.com:ana-ferreiramg/waiterappAPI.git
