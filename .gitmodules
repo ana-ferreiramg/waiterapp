@@ -4,3 +4,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:ana-ferreiramg/waiterappAPI.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:ana-ferreiramg/waiterappMOBILE.git
